@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "65131187345",
+    "firebase_url": "https://credible-cosine-229813.firebaseio.com",
+    "project_id": "credible-cosine-229813",
+    "storage_bucket": "credible-cosine-229813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65131187345:android:7c21cabb61708060",
+        "android_client_info": {
+          "package_name": "com.example.szakdolgozat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65131187345-aa61o58oac9a4qmrfrpddql5slpp0rc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLVHL9-7E8foEQIU7yrl-pqgEJwX2y0IA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
